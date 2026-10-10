@@ -1,0 +1,27 @@
+[
+  {
+    "id": "score_1791662585396_2mjxo",
+    "username": "Leon",
+    "score": 95,
+    "totalAnswered": 100,
+    "percentage": 95,
+    "rank": "S",
+    "rankTitle": "Agente de Élite S.T.A.R.S.",
+    "gameMode": "Maratón 100",
+    "correctQuestionIds": [
+      1,
+      2,
+      3
+    ],
+    "incorrectQuestionDetails": [
+      {
+        "questionId": 4,
+        "questionTitle": "¿Quién es el traidor líder del equipo Alpha de S.T.A.R.S.?",
+        "selectedOptionText": "Barry Burton",
+        "correctOptionText": "Albert Wesker",
+        "category": "Mansión Spencer y Orígenes"
+      }
+    ],
+    "createdAt": "2026-10-10T20:03:05.397Z"
+  }
+]

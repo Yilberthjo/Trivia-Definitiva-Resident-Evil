@@ -1,0 +1,6 @@
+{
+  "name": "Trivia Definitiva: Resident Evil",
+  "description": "Desafío definitivo de 100 preguntas sobre la saga Resident Evil: juegos clásicos, virus, bosses, armas y secretos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
